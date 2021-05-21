@@ -1,0 +1,9 @@
+.DS_Store
+
+# IDEs and Editors
+.vscode
+
+# Build
+dist
+node_modules
+package-lock.json
